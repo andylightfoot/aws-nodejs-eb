@@ -9,4 +9,3 @@
 !.elasticbeanstalk/*.global.yml
 
 # Application Zip file bundle
-*.zip
