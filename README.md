@@ -1,1 +1,1 @@
-# NEW Elastic Beanstalk NodeJS application template
+# NElastic Beanstalk NodeJS application template
