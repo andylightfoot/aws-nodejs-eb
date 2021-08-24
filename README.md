@@ -1,1 +1,1 @@
-# The great Elastic Beanstalk NodeJS applicaon template
+# The great Elastic Beanstalk NodeJS application template
